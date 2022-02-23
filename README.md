@@ -1,8 +1,8 @@
 # git-it-done
 
-Application live URL: https://houst29476.github.io/taskmaster-pro/
+Application live URL: https://houst29476.github.io/git-it-done
 
-GitHub Repository URL: https://github.com/Houst29476/taskmaster-pro
+GitHub Repository URL: https://github.com/Houst29476/git-it-done
 
 App Functionality Requirements:
 - build web app that will search GitHub for:
